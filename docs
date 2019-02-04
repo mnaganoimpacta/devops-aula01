@@ -9,3 +9,27 @@ O aplicativo deverá possuir um cadastro de receita mensal
 O aplicativo deverá possuir um cadastro de gastos mensais
 O aplicativo deverá possuir um cadastro de metas 
 O aplicativo deverá possuir um módulo de estatísticas mensal (receitas X gastos + saldo final para alcance da meta)
+
+Design:
+
+O aplicativo será um sistema mobile híbrido, feito pelo framework Ionic, pois ele funcionará para IOS e Android, utilizando a linguagem typescript, e como requisitos, necessitará do banco sqlite, para gravar dados localmente, e durante um certo tempo do dia será feito um backup externo de todos os dados.
+Como requisito mínimo para o hardware do aparelho, é preciso:
+
+Android:
+- s.o.: Android 5.0 Lollipop de 64bits ou superior
+- Memória RAM: 3GB ou superior
+- Tipo de GPU: Adreno 530 ou superior, Mali-G71 MP20, Mali-G72 MP12 ou superior
+
+Dispositivos IOS compatíveis:
+- iPhone SE
+- iPhone 6S
+- iPhone 7
+- iPhone 8
+- iPhone X
+- iPad Mini 4
+- iPad Air 2
+- iPad 2017
+- iPad Pro
+
+O backend será feito com a linguagem C para a comunicação com o banco de dados Mysql. 
+
