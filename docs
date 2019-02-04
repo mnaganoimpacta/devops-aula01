@@ -33,3 +33,10 @@ Dispositivos IOS compatíveis:
 
 O backend será feito com a linguagem C para a comunicação com o banco de dados Mysql. 
 
+Codificação:
+
+- Foi utilizada a linguagem typescript para o desenvolvimento do aplicativo.
+
+- Para o back end, será utilizada a linguagem C
+
+- As tabelas serão criadas com a linguagem SQL
